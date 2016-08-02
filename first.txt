@@ -3,10 +3,5 @@ ciao
 Sisi Maria
 Sisi Maria Rodriguez
 My friends here are Ksenia and Ivan and they are from Ukraine
-<<<<<<< HEAD
 changing to master
 my teacher is a "nice guy"
-=======
-We are all sleep and the teacher say that we are having fun?
-
->>>>>>> test
